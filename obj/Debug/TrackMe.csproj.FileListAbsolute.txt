@@ -1,0 +1,12 @@
+E:\Projects\TrackMe\bin\Debug\TrackMe.exe.config
+E:\Projects\TrackMe\bin\Debug\TrackMe.exe
+E:\Projects\TrackMe\bin\Debug\TrackMe.pdb
+E:\Projects\TrackMe\obj\Debug\TrackMe.Form1.resources
+E:\Projects\TrackMe\obj\Debug\TrackMe.Properties.Resources.resources
+E:\Projects\TrackMe\obj\Debug\TrackMe.csproj.GenerateResource.cache
+E:\Projects\TrackMe\obj\Debug\TrackMe.csproj.CoreCompileInputs.cache
+E:\Projects\TrackMe\obj\Debug\TrackMe.exe
+E:\Projects\TrackMe\obj\Debug\TrackMe.pdb
+E:\Projects\TrackMe\obj\Debug\TrackMe.Settings.resources
+E:\Projects\TrackMe\obj\Debug\TrackMe.About.resources
+E:\Projects\TrackMe\obj\Debug\TrackMe.csprojAssemblyReference.cache
