@@ -21,7 +21,7 @@ namespace TrackMe
         public Form1()
         {
             InitializeComponent();
-            if (DateTime.Now > DateTime.Parse("01.01.2025"))
+            if (DateTime.Now > DateTime.Parse("01.01.2026"))
             {
                 MessageBox.Show("Лицензия закончилась. \nПожалуйста, обратитесь к разработчику по адресу m.ivanchik@cbt.by");
                 Environment.Exit(0);
@@ -66,7 +66,7 @@ namespace TrackMe
             if (DateTime.Now.DayOfWeek == DayOfWeek.Saturday || DateTime.Now.DayOfWeek == DayOfWeek.Sunday)
             {
                 this.Text = "Выходной день - Track Me";
-                //return; // Прерываем выполнение метода, если сегодня выходной
+                return; // Прерываем выполнение метода, если сегодня выходной
             }
             else
             {
